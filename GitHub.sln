@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitHub", "GitHub.csproj", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{759EF498-A69F-4CBD-8790-75F9DBC3A8A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domains", "..\GitHup\Domains\Domains.csproj", "{278BF75F-50E2-46A5-BDA6-F2F5EAC04D0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{759EF498-A69F-4CBD-8790-75F9DBC3A8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{759EF498-A69F-4CBD-8790-75F9DBC3A8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{759EF498-A69F-4CBD-8790-75F9DBC3A8A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{278BF75F-50E2-46A5-BDA6-F2F5EAC04D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278BF75F-50E2-46A5-BDA6-F2F5EAC04D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278BF75F-50E2-46A5-BDA6-F2F5EAC04D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278BF75F-50E2-46A5-BDA6-F2F5EAC04D0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
