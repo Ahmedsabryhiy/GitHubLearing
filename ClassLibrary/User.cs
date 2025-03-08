@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
-    internal class User
+    public class User
     {
+        public string FullName { get; set; }
+
+        public string Email { get; set; }
+        public string Phone { get; set; }
+        public string Address { get; set; }
+        
     }
 }
